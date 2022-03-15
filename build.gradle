@@ -1,13 +1,16 @@
+plugins {
+    id 'java'
+}
+
 group = 'in.pabreja.coding.challenge'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '17'
+sourceCompatibility = '16'
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-
 }
 
 tasks.named('test') {

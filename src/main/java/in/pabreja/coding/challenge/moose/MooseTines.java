@@ -1,4 +1,4 @@
-package in.pabreja.coding.challenge.kattis.easy;
+package in.pabreja.coding.challenge.moose;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ import java.util.Scanner;
  *
  */
 
-public class problemA {
+public class MooseTines {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

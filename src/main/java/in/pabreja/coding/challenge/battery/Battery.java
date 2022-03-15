@@ -1,8 +1,8 @@
-package in.pabreja.coding.challenge.kattis.easy;
+package in.pabreja.coding.challenge.battery;
 
 import java.util.Scanner;
 
-public class ProblemB {
+public class Battery {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while (sc.hasNextInt()) {

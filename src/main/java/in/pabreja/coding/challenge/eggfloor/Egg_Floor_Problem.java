@@ -1,4 +1,4 @@
-package in.pabreja.coding.challenge.kattis.easy;
+package in.pabreja.coding.challenge.eggfloor;
 
 import java.util.Arrays;
 
