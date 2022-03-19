@@ -1,4 +1,13 @@
-#### Problem A
+#### Problem J
+
+## Judging Moose
+
+###### Problem ID:
+###### Time limit: 6 seconds
+###### Picture by atulknareda on Pixabay
+
+
+##### Problem Description:
 
 /problems/judgingmoose/file/statement/en/img-0001.png
 
@@ -26,3 +35,10 @@ Output a single line describing the moose. For even pointed moose, output “Eve
 | Sample Input 3 | Sample Output 3 |
 | --- | --- |
 | 0 0 | Not a moose |
+
+
+##### Problem references :
+http://www.cs.ucf.edu/~dmarino/progcontests/mysols/collegeregional/ncpc/2017/ncpc2017problems.pdf
+
+##### Solution references :
+http://www.cs.ucf.edu/~dmarino/progcontests/mysols/collegeregional/ncpc/2017/a.java
